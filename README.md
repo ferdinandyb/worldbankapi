@@ -35,6 +35,8 @@ gci("Hungary","GDP per capita, PPP (current international $)")
 
 # TODO
 
-Scrape the https://data.worldbank.org/indicator/?tab=all website for links with
+- Scrape the https://data.worldbank.org/indicator/?tab=all website for links with
 the form https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?view=chart to
 fill out INDICATORS.
+- transform data to more useful timeseries
+- allow passing multiple countries
